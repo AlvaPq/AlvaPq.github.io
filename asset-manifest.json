@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http/:AlvaPq.github.io/AlvaPq.github.io/static/css/main.c8656e3b.css",
+    "main.js": "/http/:AlvaPq.github.io/AlvaPq.github.io/static/js/main.d13a4992.js",
+    "static/js/453.2d647e26.chunk.js": "/http/:AlvaPq.github.io/AlvaPq.github.io/static/js/453.2d647e26.chunk.js",
+    "index.html": "/http/:AlvaPq.github.io/AlvaPq.github.io/index.html",
+    "main.c8656e3b.css.map": "/http/:AlvaPq.github.io/AlvaPq.github.io/static/css/main.c8656e3b.css.map",
+    "main.d13a4992.js.map": "/http/:AlvaPq.github.io/AlvaPq.github.io/static/js/main.d13a4992.js.map",
+    "453.2d647e26.chunk.js.map": "/http/:AlvaPq.github.io/AlvaPq.github.io/static/js/453.2d647e26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8656e3b.css",
+    "static/js/main.d13a4992.js"
+  ]
+}
